@@ -1,0 +1,5 @@
+com.example.playlistmaker.test.app-core-1.6.1-0 C:\Users\Ekaterina\.gradle\caches\transforms-4\23483477b90bfb357791933371e6b232\transformed\core-1.6.1\res
+com.example.playlistmaker.test.app-androidTest-1 E:\Projects\Playlist Maker\app\build\generated\res\resValues\androidTest\debug
+com.example.playlistmaker.test.app-mergeDebugAndroidTestResources-2 E:\Projects\Playlist Maker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.playlistmaker.test.app-mergeDebugAndroidTestResources-3 E:\Projects\Playlist Maker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.playlistmaker.test.app-debugAndroidTest-4 E:\Projects\Playlist Maker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
