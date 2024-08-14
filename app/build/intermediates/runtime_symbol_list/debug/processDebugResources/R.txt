@@ -3107,6 +3107,8 @@ int drawable poster 0x7f0700f1
 int drawable test_level_drawable 0x7f0700e7
 int drawable tooltip_frame_dark 0x7f0700e8
 int drawable tooltip_frame_light 0x7f0700e9
+int font ys_display_medium 0x7f130000
+int font ys_display_regular 0x7f130001
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
@@ -4279,6 +4281,7 @@ int style Base_Widget_MaterialComponents_Snackbar 0x7f10011c
 int style Base_Widget_MaterialComponents_TextInputEditText 0x7f10011d
 int style Base_Widget_MaterialComponents_TextInputLayout 0x7f10011e
 int style Base_Widget_MaterialComponents_TextView 0x7f10011f
+int style ButtonStyle 0x7f100468
 int style CardView 0x7f100120
 int style CardView_Dark 0x7f100121
 int style CardView_Light 0x7f100122
@@ -4302,6 +4305,7 @@ int style MaterialAlertDialog_MaterialComponents_Title_Panel 0x7f100133
 int style MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked 0x7f100134
 int style MaterialAlertDialog_MaterialComponents_Title_Text 0x7f100135
 int style MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked 0x7f100136
+int style MessageTextStyle 0x7f100469
 int style Platform_AppCompat 0x7f100137
 int style Platform_AppCompat_Light 0x7f100138
 int style Platform_MaterialComponents 0x7f100139

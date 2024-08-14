@@ -16,6 +16,8 @@ drawable icon_support_lm
 drawable icon_switch_dm
 drawable icon_switch_lm
 drawable poster
+font ys_display_medium
+font ys_display_regular
 id acception
 id arrow
 id media
@@ -41,6 +43,8 @@ string settings_arrow
 string share
 string support
 style Base.Theme.PlaylistMaker
+style ButtonStyle
+style MessageTextStyle
 style Theme.PlaylistMaker
 xml backup_rules
 xml data_extraction_rules

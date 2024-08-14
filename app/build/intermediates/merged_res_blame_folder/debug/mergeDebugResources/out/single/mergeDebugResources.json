@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
-    },
-    {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\layout_activity_main_dark.xml.flat",
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\layout\\activity_main_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
@@ -16,12 +16,12 @@
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\layout_activity_settings_dark.xml.flat",
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\layout\\activity_settings_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
@@ -36,12 +36,8 @@
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.playlistmaker.app-debug-31:/layout_activity_main_dark.xml.flat",
-        "source": "com.example.playlistmaker.app-main-33:/layout/activity_main_dark.xml"
-    },
-    {
-        "merged": "com.example.playlistmaker.app-debug-31:/layout_activity_settings_light.xml.flat",
-        "source": "com.example.playlistmaker.app-main-33:/layout/activity_settings_light.xml"
+        "merged": "com.example.playlistmaker.app-debug-31:/font_ys_display_medium.ttf.flat",
+        "source": "com.example.playlistmaker.app-main-33:/font/ys_display_medium.ttf"
     },
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\drawable_icon_support_lm.xml.flat",
@@ -68,6 +64,10 @@
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.playlistmaker.app-debug-31:/font_ys_display_regular.ttf.flat",
+        "source": "com.example.playlistmaker.app-main-33:/font/ys_display_regular.ttf"
+    },
+    {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\xml_data_extraction_rules.xml.flat",
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\xml\\data_extraction_rules.xml"
     },
@@ -78,10 +78,6 @@
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "com.example.playlistmaker.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "com.example.playlistmaker.app-main-33:/layout/activity_main.xml"
     },
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\drawable_icon_arrow.xml.flat",
@@ -122,10 +118,6 @@
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\drawable-xxhdpi_barsik.png.flat",
         "source": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-main-33:\\drawable-xxhdpi\\barsik.png"
-    },
-    {
-        "merged": "com.example.playlistmaker.app-debug-31:/layout_activity_settings_dark.xml.flat",
-        "source": "com.example.playlistmaker.app-main-33:/layout/activity_settings_dark.xml"
     },
     {
         "merged": "E:\\Android Studio\\.gradle\\daemon\\8.7\\com.example.playlistmaker.app-debug-31:\\layout_activity_main.xml.flat",
